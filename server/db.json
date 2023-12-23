@@ -1,0 +1,73 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John",
+      "email": "jhon@doe.com",
+      "password": "123456"
+    },
+    {
+      "email": "samiula@sam.com",
+      "password": "Mykey2022@",
+      "id": 2
+    }
+  ],
+  "booked": [
+    {
+      "id": 1,
+      "hotel_id": 1,
+      "room_number": "501",
+      "name": "John",
+      "email": "jhon@doe.com",
+      "phone_number": "1234567890"
+    },
+    {
+      "id": 2,
+      "hotel_id": 1,
+      "room_number": "401",
+      "name": "John",
+      "email": "jhon@doe.com",
+      "phone_number": "1234567890"
+    },
+    {
+      "hotel_id": "4",
+      "room_number": "101",
+      "name": "asdsadas",
+      "email": "samiula@sam.com",
+      "phone_number": "asdasda",
+      "id": 3
+    },
+    {
+      "hotel_id": "4",
+      "room_number": "401",
+      "name": "asdsadas",
+      "email": "samiula@sam.com",
+      "phone_number": "asdasda",
+      "id": 4
+    },
+    {
+      "hotel_id": "8",
+      "room_number": "101",
+      "name": "asdasd",
+      "email": "samiula@sam.com",
+      "phone_number": "12313",
+      "id": 5
+    },
+    {
+      "hotel_id": "8",
+      "room_number": "601",
+      "name": "asdasd",
+      "email": "samiula@sam.com",
+      "phone_number": "12313",
+      "id": 6
+    },
+    {
+      "hotel_id": "16",
+      "room_number": "501",
+      "name": "asdad",
+      "email": "samiula@sam.com",
+      "phone_number": "123123",
+      "id": 7
+    }
+  ]
+}
